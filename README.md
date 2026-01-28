@@ -30,7 +30,7 @@ Les images sont numérotées automatiquement sans écrasement.
 ### Dépendances
 
 ```bash
-pip install requests duckduckgo-search
+pip install -r requirements.txt
 ```
 
 ---
